@@ -4,4 +4,4 @@ Here you can find the script and dataset to conduct the analyses for the paper "
 
 # Script
 
-The annotated script (in .md format) is in the file "[es_conversion_meta_20221206.md](https://github.com/jr-baldwin/pro-retro-psychopathology/blob/main/pro_retro_script_20231114.md)".
+The annotated script (in .md format) is in the file "[pro_retro_script_20231114.md](https://github.com/jr-baldwin/pro-retro-psychopathology/blob/main/pro_retro_script_20231114.md)".
